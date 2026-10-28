@@ -1,0 +1,24 @@
+# OS & editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*~
+*.swp
+*.bak
+
+# Build outputs & caches
+build/
+dist/
+*.iso
+*.squashfs
+*.tar.gz
+*.log
+.cache/
+cache/
+tmp/
+
+# Secrets
+.env
+*.key
+*.pem
